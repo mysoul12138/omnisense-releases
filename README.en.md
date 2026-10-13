@@ -10,7 +10,7 @@ A **DualSense / DualShock 4 companion for Windows** that brings adaptive trigger
 - **Racing telemetry effects** — reads the official Data Out stream from the Forza series and drives trigger resistance, throttle weight, drift pulses, lightbar and rumble from live telemetry. No third-party mods required — just enable Data Out in the game.
 - **More game telemetry** — a built-in League of Legends Live Client adapter turns in-game events (kills and more) into controller feedback with zero in-game setup; a local HTTP bridge lets you feed custom telemetry for any game.
 - **Native game rumble, side by side** — the virtual gamepad passes native game rumble through while telemetry and haptic effects are mixed per motor, never fighting each other.
-- **Lightbar & audio passthrough** — set the lightbar color freely; route system audio to the controller speaker and haptic channels (USB).
+- **Lightbar & audio passthrough** — the lightbar is set per profile: six preset colours, off, or “unmanaged” (left to telemetry and mods). Applies when the profile activates and is restored when the controller reconnects; racing telemetry and mod effects take over the lightbar while they are active. System audio can be routed to the controller speaker and haptic channels (USB).
 - **Profiles** — one setup per game: lightbar, triggers, button mapping, mods and rumble all follow the profile; bind an executable and profiles switch automatically.
 - **Button mapping** — remap any controller button to another controller button, or straight to a keyboard / mouse key (replace-style: the mapped button stops emitting a controller signal; no macros).
 - **Touchpad to mouse** — use the DualSense touchpad as a mouse: one-finger tap-and-drag, two-finger scroll, toggleable anytime.
