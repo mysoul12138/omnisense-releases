@@ -18,6 +18,7 @@ A **DualSense / DualShock 4 companion for Windows** that brings adaptive trigger
 - **Device guard** — one click hides the physical controller behind HidHide so only OmniSense can use it, ending multi-app contention; coexists automatically with DualSenseY (auto-yield).
 - **MOD instruction channel** — receives community DSX-ecosystem mods that send instructions to the local port 6969 (zero setup on the mod side); in-house manifest mods get visual configuration cards.
 - **Bilingual UI (Chinese / English)** and **in-app auto-update** — new versions install straight from the app.
+- **Immersive scrollbars** — hidden at rest; they appear while the pointer is inside a scrolling area or while you scroll, and follow the light / dark theme.
 
 ## Download & install
 
